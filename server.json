@@ -1,9 +1,9 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/alphavantage",
-  "title": "alphavantage",
+  "title": "Alphavantage",
   "description": "Alpha Vantage MCP — Stock market data, fundamentals, and earnings",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/alphavantage",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-alphavantage",
