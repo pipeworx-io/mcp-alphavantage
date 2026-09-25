@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-alphavantage",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Alpha Vantage MCP — Stock market data, fundamentals, and earnings",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-5890ed5ddae72d849a7192430c800e6b2cbe22aa03fdedfdb8aac54701ca3f85",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-4bd2ef4fc9381b2f41120ae56ceb56b5483131fe8ffe7a563287ffe2558df64b",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }

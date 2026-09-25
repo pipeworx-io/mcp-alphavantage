@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/alphavantage",
   "title": "Alphavantage",
   "description": "Alpha Vantage MCP — Stock market data, fundamentals, and earnings",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/alphavantage",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-alphavantage",
