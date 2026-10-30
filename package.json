@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-alphavantage",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Alpha Vantage MCP — Stock market data, fundamentals, and earnings",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "alphavantage",
     "gatewaySlug": "alphavantage",
-    "sourceHash": "v1-7696742e8c6bbf28616e1079bc27806a6ecf25782f5bc2cbfe3318b082246816",
-    "sourceCommit": "c6136b81713e72ccb22977ca0c0cd981f8c3f081"
+    "sourceHash": "v1-044aa41d6bd8af9cfb77440d11a0783ba13eee9557cbae03aa208714df5389f0",
+    "sourceCommit": "aef970216f5309cdd22a27ddfc275e472aaadac1"
   }
 }
